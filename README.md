@@ -126,7 +126,7 @@ Atualiza os detalhes de uma tarefa existente.
                 "finalizado": true
             }
 
-#### Deletar Tarefa [DELETE]
+#### Deletar Tarefa [POST]
 Exclui uma tarefa existente.
 
 + Parameters
